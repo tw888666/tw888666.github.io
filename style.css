@@ -1,0 +1,34 @@
+div {
+    font: 26px "Microsoft YaHei";
+    color: aquamarine;
+}
+.jiaran {
+    color: pink;
+}
+.ranran{
+    font-size: 35px;
+    font-style: normal;
+    font-weight: bold;
+}
+iframe {
+    height: 584px;
+    /* width: 881px; */
+    width: 920px;
+
+}
+p {
+    color: hotpink;
+
+}
+#rr {
+    color: lightpink;
+}
+* {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: normal;
+}
+a {
+    text-decoration: line-through;
+    
+}
